@@ -71,7 +71,7 @@ The project is broken down into a series of modules, each tackling a specific st
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[YourUsername]/AI-Agents-and-RAG-Application-Lifecycle.git
+    git clone https://github.com/nabeelshan78/AI-Agents-and-RAG-Application-Lifecycle.git
     cd AI-Agents-and-RAG-Application-Lifecycle
     ```
 
